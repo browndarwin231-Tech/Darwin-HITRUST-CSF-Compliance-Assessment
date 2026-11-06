@@ -1,0 +1,4 @@
+resource,data_type,encryption_at_rest_enabled
+database_1,PHI demo label only,Yes
+object_storage_1,Clinical records demo label only,Yes
+backup_storage_1,Backup demo label only,Yes

@@ -1,0 +1,4 @@
+vuln_id,severity,identified_date,resolved_date
+V101,Critical,2026-10-01,2026-10-09
+V102,Critical,2026-10-02,2026-10-24
+V103,Critical,2026-10-11,2026-10-18

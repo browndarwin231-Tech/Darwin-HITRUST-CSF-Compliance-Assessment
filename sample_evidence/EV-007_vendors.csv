@@ -1,0 +1,4 @@
+vendor_id,risk_tier,last_review,review_status
+VEN-01,High,2026-05-10,Current
+VEN-02,High,,Missing
+VEN-03,High,2026-07-20,Current
